@@ -18,7 +18,7 @@ A Python tool that intelligently splits Markdown files into separate files based
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/markdown-file-splitter.git
+git clone https://github.com/Code-Glider/markdown-splitter.git
 
 # Navigate to the directory
 cd 
